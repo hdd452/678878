@@ -24,4 +24,4 @@
 简洁易用的界面，提升用户体验
 为了提供更好的用户体验，我们对平台进行了精心设计，确保界面简洁、操作便捷。首页为你推荐最热影片和最新更新，影片页面提供详细的演员资料、影片简介和用户评论，帮助你更快地做出选择。通过清晰分类，你可以根据个人喜好和观看历史快速找到感兴趣的内容。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hdd452/678878 ）</span>
